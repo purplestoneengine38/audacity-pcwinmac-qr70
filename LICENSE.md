@@ -1,4 +1,4 @@
-# 
+# Ligero Audacity herramientas para Mac OS | Código abierto Audacity herramientas para PC Windows. Con mezcla de audio y soporte de plugins — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
